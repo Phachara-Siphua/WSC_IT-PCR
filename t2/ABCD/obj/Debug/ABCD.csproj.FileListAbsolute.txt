@@ -1,0 +1,12 @@
+D:\WSC_IT PCR\t2\ABCD\bin\Debug\ABCD.exe.config
+D:\WSC_IT PCR\t2\ABCD\bin\Debug\ABCD.exe
+D:\WSC_IT PCR\t2\ABCD\bin\Debug\ABCD.pdb
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.csproj.AssemblyReference.cache
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.Form1.resources
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.Properties.Resources.resources
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.csproj.GenerateResource.cache
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.csproj.CoreCompileInputs.cache
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.exe
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.pdb
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.Product_management.resources
+D:\WSC_IT PCR\t2\ABCD\obj\Debug\ABCD.Add_Edit_Product.resources
